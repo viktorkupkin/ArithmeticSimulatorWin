@@ -1,0 +1,10 @@
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\bin\Release\ArithmeticSimulator.exe.config
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\bin\Release\ArithmeticSimulator.exe
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\bin\Release\ArithmeticSimulator.pdb
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\obj\Release\ArithmeticSimulator.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\obj\Release\ArithmeticSimulator.Form1.resources
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\obj\Release\ArithmeticSimulator.Properties.Resources.resources
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\obj\Release\ArithmeticSimulator.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\obj\Release\ArithmeticSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\obj\Release\ArithmeticSimulator.exe
+C:\Users\Professional\source\repos\ArithmeticSimulator\ArithmeticSimulator\obj\Release\ArithmeticSimulator.pdb
